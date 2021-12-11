@@ -9,6 +9,7 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
                 "authorization": localStorage.token
             }
         }),
+/* DO NOT CHANGE THE PRICES! THEY ARE CONTROLLED SERVER-SIDE. */
         price = ({
             blizzard: 25,
             spooky: 25,
