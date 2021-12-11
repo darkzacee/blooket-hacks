@@ -10,11 +10,11 @@ If you are a programmer and want to make your own hacks for blooket make sure to
 
 ## How to use
 
-Here is how to use the hacks with videos showing step-by-step how to install the hacks and how to use them.
+Here is how to use the hacks, with videos showing step-by-step how to install the hacks and how to use them.
 
 ### Console method
 
-This only works if inspect element enabled and you can open console. If inspect is disabled for you scroll down for the bookmarklet method.
+This only works if the inspect element is enabled and you can open the console. If inspect is disabled for you, scroll down for the bookmarklet method.
 
 https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-8637-cb6bde2a42da.mp4
 
@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-
 ~~https://streamable.com/t4u7i7~~
 
 1. Make a bookmark (the star on the right side of the url bar if you are using chrome)
-2. Click on more at the bottom left corner
+2. Click on "more" in the bottom left corner
 3. Delete everything in the url box
 4. Type `javascript:`
 5. Paste in the code
