@@ -142,7 +142,7 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
             });
             var totalValue = Number("0");
             for (const [blook,quant] of Object.entries(count)) {
-                totalValue = totalValue + (blookValues[blook])*quant;
+                totalValue += (blookValues[blook])*quant;
                 
             };
             alert('Value of Blooks Unlocked: '+totalValue)
