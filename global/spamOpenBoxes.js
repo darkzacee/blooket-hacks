@@ -147,7 +147,7 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
                 totalValue += (blookValues[blook]) * quant;
             };
             
-            alert('Value of Blooks Unlocked: ' + totalValue);
+            alert('Gross Income of Blooks Unlocked: ' + totalValue + '\nNet Income of Blooks Unlocked: ' + (totalValue - inv.length * price));
         });
     });
 
